@@ -1,0 +1,5 @@
+if (g++ lab5.cpp -o lab5) then
+  ./lab5
+else
+  echo "Build failed!"
+fi
